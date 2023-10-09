@@ -1,0 +1,9 @@
+Name:Alex
+address:67 jasper street,paterson,NJ
+GPA:2.9
+Name:Emran
+address:120 slater street,paterson,NJ
+GPA:3.8
+Name:Messy
+address:321 elm street,paterson,NJ
+GPA:3.44
